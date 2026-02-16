@@ -3,6 +3,7 @@ fetch("profile.json")
     if (!response.ok) {
       throw new Error("Nepodařilo se načíst data.");
     }
+    console.log("test");
     return response.json();
   })
   .then(data => {
