@@ -1,0 +1,21 @@
+{
+  "name": "Jan Novák",
+  "skills": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "Git"
+  ],
+  "interests": [
+    "Web development",
+    "Herní grafika",
+    "AI nástroje"
+  ],
+  "projects": [
+    {
+      "title": "Osobní web",
+      "description": "Jednostránkový profil na GitHub Pages",
+      "link": "https://tvoje-uzivatelske-jmeno.github.io/"
+    }
+  ]
+}
